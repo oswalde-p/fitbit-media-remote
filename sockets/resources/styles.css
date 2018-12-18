@@ -1,0 +1,54 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+#status{
+  x:5;
+  y:25%;
+  font-size: 50;
+  text-anchor: start;
+  fill: white;
+}
+
+#bars{
+  width: 60%;
+  height: 40%;
+  x: 20%;
+  y: 50%;
+}
+
+.barSegment{
+  fill: red;
+  width: 24%;
+  x:$+2%;
+  display: none;
+}
+
+#barSegment1{
+  fill: #429c2d;
+  height:25%;
+  y: 75%;
+}
+#barSegment2{
+  fill: #47b431;
+  height:50%;
+  y: 50%;
+}
+#barSegment3{
+  fill: #52cd38;
+  height:75%;
+  y: 25%;
+}
+#barSegment4{
+  fill: #6bff4d;
+  height:100%;
+  y:0;
+}
