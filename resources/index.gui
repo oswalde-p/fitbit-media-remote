@@ -1,0 +1,6 @@
+<svg id="background">
+  <text id="message">Play/Pause</text>
+  <use id="play" href="#square-button">
+    <set href="#text" attributeName="text-buffer" to="Play/Pause" />
+  </use>
+</svg>

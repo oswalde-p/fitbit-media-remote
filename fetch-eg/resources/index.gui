@@ -1,6 +1,0 @@
-<svg id="background">
-  <text id="value">Response</text>
-  <use id="request" href="#square-button">
-    <set href="#text" attributeName="text-buffer" to="Request" />
-  </use>
-</svg>

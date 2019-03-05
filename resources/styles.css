@@ -11,12 +11,14 @@
   fill: white;
 }
 
-#value {
+#message {
+  font-size: 20;
   text-length: 32;
-  y: 30;
+  y: 255;
+  x: 40;
 }
 
-#request {
-  y: 185;
+#play {
+  y: 110;
   fill: #44ff54;
 }

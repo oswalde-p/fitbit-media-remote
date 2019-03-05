@@ -1,5 +1,5 @@
 {
-  "name": "fetch-eg",
+  "name": "netflix-remote",
   "version": "0.1.0",
   "private": true,
   "license": "UNLICENSED",
@@ -10,10 +10,12 @@
   "fitbit": {
     "appUUID": "3d40dc44-d892-43e1-b80d-6a07bf88d8f9",
     "appType": "app",
-    "appDisplayName": "fetch-eg",
+    "appDisplayName": "R-moat",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
-    "requestedPermissions": [ "access_internet" ],
+    "requestedPermissions": [
+      "access_internet"
+    ],
     "buildTargets": [
       "higgs",
       "meson"
