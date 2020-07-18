@@ -1,3 +1,6 @@
+
+**Archived since fitbit now blocks insecure requests except for localhost**
+
 # fitbit-media-remote
 
 Simple media controls, on your wrist! Works in conjunction with my [linux media control server](https://github.com/oswalde-p/media-control-server)
